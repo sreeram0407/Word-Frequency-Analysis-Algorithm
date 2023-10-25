@@ -21,10 +21,3 @@ A C++ program designed to parse a large text file and determine the word frequen
    ./exe
    ```
 
-## ✨ Contributing
-
-For contributions, please create a pull request or open an issue for discussion.
-
-## 📜 License
-
-Feel free to use, modify, and distribute the code as you see fit. For any queries or further clarifications, please contact the author.
